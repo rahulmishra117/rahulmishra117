@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [HSC](https://hsc.com/).
 - 🌱 I’m currently learning more about Frontend .
-- 😄 Pronouns: He/His
+- 😄
 - ⚡ Fun fact: I spend almost 4 hours listening to songs every day.
 
 
