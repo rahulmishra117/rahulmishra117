@@ -16,12 +16,12 @@
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 
-I’m a **Full Stack Developer** with **3.5+ years of experience** in designing, developing, and optimizing scalable applications across web and backend domains.  
+I’m a **Full Stack Developer** with **4.5+ years of experience** in designing, developing, and optimizing scalable applications across web and backend domains.  
 My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building robust systems that deliver high performance and maintainability.  
 
-- 🔭 Currently working at **[HSC](https://hsc.com/)**  
+
 - ⚙️ Experienced in **microservice architectures**, **real-time dashboards**, and **asynchronous systems**  
 - 🌱 Exploring **System Design**, **Web3**, and **High-performance APIs**  
 - 💡 Passionate about creating clean, efficient, and production-grade code  
@@ -29,9 +29,9 @@ My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building
 
 ---
 
-### 💼 Professional Summary
+###  Professional Summary
 
-💻 Over **3.5 years** of hands-on experience as a **Full Stack Developer**, specializing in:
+💻 Over **4.5 years** of hands-on experience as a **Full Stack Developer**, specializing in:
 - ⚙️ **Backend**: Node.js, Express.js, FastAPI, Golang, Python  
 - 🧩 **Frontend**: React.js, Vue.js, TypeScript, Redux, Tailwind CSS  
 - 🗄️ **Databases**: MongoDB, MySQL, Elasticsearch  
@@ -40,7 +40,7 @@ My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,redux,nodejs,express,go,python,fastapi,mongodb,mysql,elasticsearch,docker,linux,git,postman,vscode&perline=9" />
@@ -48,7 +48,7 @@ My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building
 
 ---
 
-### 📈 GitHub Insights  
+###  GitHub Insights  
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rahulmishra117&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -61,7 +61,7 @@ My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building
 
 ---
 
-### 🚀 Featured Projects  
+###  Featured Projects  
 
 | 🧩 Project | 📝 Description | 🧠 Tech Stack |
 |-------------|----------------|---------------|
@@ -72,9 +72,9 @@ My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building
 
 ---
 
-### 🧩 My Development Principles
+###  My Development Principles
 
-> 🧠 “Code should not only work — it should communicate.”  
+>  “Code should not only work — it should communicate.”  
 
 - 🔹 Focus on **scalable and maintainable** architectures  
 - 🔹 Prefer **modular** and **test-driven** development  
@@ -83,7 +83,7 @@ My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building
 
 ---
 
-### 🌐 Connect With Me  
+###  Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-mishra-b2970813b/">
