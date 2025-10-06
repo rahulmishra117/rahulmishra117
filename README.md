@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! 👋 I'm Rahul Mishra</h1>
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm Rahul Mishra</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend Specialist | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-mishra-b2970813b/">
@@ -14,85 +16,92 @@
 
 ---
 
-### 💫 About Me
+### 🧠 About Me  
+
+I’m a **Full Stack Developer** with **3.5+ years of experience** in designing, developing, and optimizing scalable applications across web and backend domains.  
+My focus lies in **Node.js**, **React.js**, **Golang**, and **Python**, building robust systems that deliver high performance and maintainability.  
 
 - 🔭 Currently working at **[HSC](https://hsc.com/)**  
-- 🌱 Exploring advanced **Frontend Development** & **System Design**  
-- 💻 Passionate about **Full Stack Development** and building scalable systems  
-- ⚡ Fun fact: I spend ~4 hours a day vibing to music 🎧  
-- 🚀 Always learning and collaborating to create impactful products
+- ⚙️ Experienced in **microservice architectures**, **real-time dashboards**, and **asynchronous systems**  
+- 🌱 Exploring **System Design**, **Web3**, and **High-performance APIs**  
+- 💡 Passionate about creating clean, efficient, and production-grade code  
+- 🎧 Fun fact: I code better when I’m vibing to music 🎵  
 
 ---
 
-### 🧠 Tech Stack
+### 💼 Professional Summary
 
-#### 💻 Languages
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang"/></code>
-
-#### 🧩 Frontend
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
-
-#### ⚙️ Backend
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/></code>
-
-#### 🗄️ Databases
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch"/></code>
-
-#### ☁️ Tools & Platforms
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/></code>
+💻 Over **3.5 years** of hands-on experience as a **Full Stack Developer**, specializing in:
+- ⚙️ **Backend**: Node.js, Express.js, FastAPI, Golang, Python  
+- 🧩 **Frontend**: React.js, Vue.js, TypeScript, Redux, Tailwind CSS  
+- 🗄️ **Databases**: MongoDB, MySQL, Elasticsearch  
+- ☁️ **DevOps & Tools**: Docker, Git, Linux, Postman, VSCode  
+- 🧠 **Other Skills**: REST APIs, WebSockets, Caching, Distributed Systems, Data Structures  
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rahulmishra117&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rahul's GitHub stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmishra117&theme=transparent&hide_border=true" alt="Rahul's GitHub streak"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmishra117&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,redux,nodejs,express,go,python,fastapi,mongodb,mysql,elasticsearch,docker,linux,git,postman,vscode&perline=9" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📈 GitHub Insights  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [Notification Dashboard](https://github.com/rahulmishra117) | Real-time monitoring dashboard for Raspberry Pi devices using WebSocket | Vue.js, Node.js |
-| [Simulator Tool](https://github.com/rahulmishra117) | Analyzes application responses across cruise ships and detects fault statuses | Python, FastAPI |
-| [OTT Media Monitor](https://github.com/rahulmishra117) | Monitors OTT performance metrics like buffering time, throughput, and latency | React, Node.js |
-| [Health Monitoring System](https://github.com/rahulmishra117) | Tracks health status of distributed Raspberry Pi networks | React, Flask |
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rahulmishra117&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=rahulmishra117&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmishra117&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 🌍 Connect With Me
+### 🚀 Featured Projects  
+
+| 🧩 Project | 📝 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| [**Notification Dashboard**](https://github.com/rahulmishra117) | Real-time monitoring of Raspberry Pi devices across networks using WebSockets. | Vue.js · Node.js · WebSocket |
+| [**Simulator Tool**](https://github.com/rahulmishra117) | Collects app responses from cruise ships and identifies Raspberry Pi fault statuses. | Python · FastAPI · MongoDB |
+| [**OTT Media Monitor**](https://github.com/rahulmishra117) | Tracks OTT metrics: buffering time, throughput, playback errors, and latency. | React · Node.js · Elasticsearch |
+| [**Health Monitoring System**](https://github.com/rahulmishra117) | Monitors distributed Pi device health across satellite networks. | React · Flask · Docker |
+
+---
+
+### 🧩 My Development Principles
+
+> 🧠 “Code should not only work — it should communicate.”  
+
+- 🔹 Focus on **scalable and maintainable** architectures  
+- 🔹 Prefer **modular** and **test-driven** development  
+- 🔹 Optimize for **performance**, not premature complexity  
+- 🔹 Believe in **clean code**, **good documentation**, and **team collaboration**  
+
+---
+
+### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-mishra-b2970813b/"><img src="https://img.shields.io/badge/-Rahul%20Mishra-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/rahulmishra117"><img src="https://img.shields.io/badge/-rahulmishra117-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/rahul-mishra-b2970813b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahulmishra117">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rahulmishra117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  
-⭐ **Show some love by starring repositories you find helpful!** ⭐
+
+⭐ **If you like my work, consider giving a star to my repositories!** ⭐  
+💬 *"Keep building, keep learning, keep improving."*
 
 </div>
