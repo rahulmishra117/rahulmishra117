@@ -1,13 +1,13 @@
 # 👋 Hey there, I’m Rahul Mishra
 
-### 🚀 Full Stack Developer | Backend Specialist
+### Full Stack Developer | Backend Specialist
 
 I’m a **Full Stack Developer** with **4.5+ years of experience** building scalable web and backend systems.  
 I focus on crafting **clean, efficient, and reliable software** using **Node.js**, **Golang**, **Python**, and **React.js**.
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 - 💻 Design and develop **microservices** and **real-time dashboards**
 - ⚙️ Build **high-performance backend APIs** and **distributed systems**
 - 🔍 Work with **Node.js**, **FastAPI**, **Golang**, **React**, and **Vue**
@@ -15,7 +15,7 @@ I focus on crafting **clean, efficient, and reliable software** using **Node.js*
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
